@@ -104,6 +104,8 @@ title: SYNGAP1 Variant Analysis
 
 **Note:** These variants were explicitly noted as "not in GnomAD/HGMD/ClinVar" at time of publication. Novel intronic variants expanding the SYNGAP1 mutation spectrum.
 
+| Category | Count |
+|----------|-------|
 | **Total Non-P/LP (ClinVar + Literature)** | **>1,381 + novel** |
 
 ### 3.2 Publications (전체논문수)

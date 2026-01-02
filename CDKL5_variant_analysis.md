@@ -105,6 +105,8 @@ title: CDKL5 Variant Analysis
 
 **Note:** >250 pathogenic CDKL5 variants reported to date. Point mutations account for >50%; intragenic duplications are rare but important. Novel variants in non-canonical transcripts expanding phenotypic spectrum.
 
+| Category | Count |
+|----------|-------|
 | **Total Non-P/LP (ClinVar + Literature)** | **>1,338 + novel** |
 
 ### 3.2 Publications (전체논문수)

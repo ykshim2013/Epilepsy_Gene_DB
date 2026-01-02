@@ -102,6 +102,8 @@ title: KCNQ2 Variant Analysis
 
 **Note:** Total ClinVar entries = 1,954 but many novel variants reported in literature are not yet submitted. A 2022 high-throughput study assessed 79 missense + 2 inframe deletion variants, many with unclear functional effects.
 
+| Category | Count |
+|----------|-------|
 | **Total Non-P/LP (ClinVar + Literature)** | **>1,540 + ~50 novel** |
 
 ### 3.2 Publications (전체논문수)

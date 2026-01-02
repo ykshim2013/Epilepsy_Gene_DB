@@ -100,6 +100,8 @@ title: SCN2A Variant Analysis
 
 **Note:** Novel variants are continuously reported. The variants above were explicitly noted as "not in ClinVar" at time of publication.
 
+| Category | Count |
+|----------|-------|
 | **Total Non-P/LP (ClinVar + Literature)** | **>2,180 + novel** |
 
 ### 3.2 Publications (전체논문수)

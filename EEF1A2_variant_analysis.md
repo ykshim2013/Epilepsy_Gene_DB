@@ -99,6 +99,8 @@ title: EEF1A2 Variant Analysis
 
 **Note:** EEF1A2 has an unusual mutational profile - approximately 50 different missense mutations identified but no obvious loss-of-function mutations, though large heterozygous deletions are compatible with life.
 
+| Category | Count |
+|----------|-------|
 | **Total Non-P/LP (ClinVar + Literature)** | **>614 + novel** |
 
 ### 3.2 Publications (전체논문수)
