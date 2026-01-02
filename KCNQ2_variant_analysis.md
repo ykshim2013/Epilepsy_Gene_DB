@@ -50,9 +50,12 @@ title: KCNQ2 Variant Analysis
 
 | Classification | Count |
 |----------------|-------|
-| **Pathogenic** | 621 |
-| **Likely Pathogenic** | 332 |
-| **Total P/LP** | **953** |
+| Pathogenic (P) | 621 |
+| Likely Pathogenic (LP) | 332 |
+| Pathogenic/Likely Pathogenic (P/LP)* | 196 |
+| **Total Unique P/LP Variants** | **757** |
+
+*Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (621 + 332 - 196 = 757) to avoid double-counting.
 
 ### 2.2 Publications for P/LP Variants (전체논문수)
 - Primary literature sources:

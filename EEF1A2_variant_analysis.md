@@ -49,9 +49,12 @@ title: EEF1A2 Variant Analysis
 
 | Classification | Count |
 |----------------|-------|
-| **Pathogenic** | 69 |
-| **Likely Pathogenic** | 45 |
-| **Total P/LP** | **114** |
+| Pathogenic (P) | 69 |
+| Likely Pathogenic (LP) | 45 |
+| Pathogenic/Likely Pathogenic (P/LP)* | 7 |
+| **Total Unique P/LP Variants** | **107** |
+
+*Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (69 + 45 - 7 = 107) to avoid double-counting.
 
 ### 2.2 Publications for P/LP Variants (전체논문수)
 - Primary literature sources:

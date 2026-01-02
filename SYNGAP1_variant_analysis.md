@@ -52,9 +52,12 @@ title: SYNGAP1 Variant Analysis
 
 | Classification | Count |
 |----------------|-------|
-| **Pathogenic** | 323 |
-| **Likely Pathogenic** | 129 |
-| **Total P/LP** | **452** |
+| Pathogenic (P) | 323 |
+| Likely Pathogenic (LP) | 129 |
+| Pathogenic/Likely Pathogenic (P/LP)* | 22 |
+| **Total Unique P/LP Variants** | **430** |
+
+*Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (323 + 129 - 22 = 430) to avoid double-counting.
 
 ### 2.2 Publications for P/LP Variants (전체논문수)
 - Primary literature sources:

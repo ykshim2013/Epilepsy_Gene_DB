@@ -49,9 +49,12 @@ title: SCN2A Variant Analysis
 
 | Classification | Count |
 |----------------|-------|
-| **Pathogenic** | 437 |
-| **Likely Pathogenic** | 361 |
-| **Total P/LP** | **798** |
+| Pathogenic (P) | 437 |
+| Likely Pathogenic (LP) | 361 |
+| Pathogenic/Likely Pathogenic (P/LP)* | 56 |
+| **Total Unique P/LP Variants** | **742** |
+
+*Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (437 + 361 - 56 = 742) to avoid double-counting.
 
 ### 2.2 Publications for P/LP Variants (전체논문수)
 - Primary literature sources linked in ClinVar

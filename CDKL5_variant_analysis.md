@@ -53,9 +53,12 @@ title: CDKL5 Variant Analysis
 
 | Classification | Count |
 |----------------|-------|
-| **Pathogenic** | 763 |
-| **Likely Pathogenic** | 306 |
-| **Total P/LP** | **1,069** |
+| Pathogenic (P) | 763 |
+| Likely Pathogenic (LP) | 306 |
+| Pathogenic/Likely Pathogenic (P/LP)* | 68 |
+| **Total Unique P/LP Variants** | **1,001** |
+
+*Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (763 + 306 - 68 = 1,001) to avoid double-counting.
 
 ### 2.2 Publications for P/LP Variants (전체논문수)
 - Primary literature sources:
