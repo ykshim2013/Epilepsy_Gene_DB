@@ -26,11 +26,17 @@ title: SCN2A Variant Analysis
 | Intronic/UTR Variants | Present |
 
 ### 1.2 Total Publications (전체논문수)
-- Over **300 patients** with SCN2A variants have been published in peer-reviewed literature
+- **>150 publications** on SCN2A-related epilepsy in peer-reviewed literature
 - Key publications span from 2001 to present
+- Major cohort studies:
+  - [Wolff et al. (2017)](https://pubmed.ncbi.nlm.nih.gov/28492532/) - 201 patients cohort
+  - [Brain (2024)](https://academic.oup.com/brain/article/147/8/2761/7656659) - 81 patients with functional analysis
+  - [Chinese cohort (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9005871/) - 72 patients
 
 ### 1.3 Total Reported Patients (전체보고 환자수)
-- **>300 patients** documented in published literature worldwide
+- **>400 patients** documented in published literature worldwide
+- Major cohort: 201 patients in Wolff et al. (2017) systematic review
+- 81 patients with detailed phenotype-genotype correlation (Brain 2024)
 - Continuous growth in case reports since widespread genetic testing adoption
 
 ### 1.4 Variant-to-Patient Frequency Distribution (variant별 환자수 빈도)
@@ -64,8 +70,9 @@ title: SCN2A Variant Analysis
   - [SCN2A encephalopathy: epilepsy of infancy with migrating focal seizures](https://pmc.ncbi.nlm.nih.gov/articles/PMC4567464/)
 
 ### 2.3 Reported Patients with P/LP Variants (전체보고 환자수)
-- Estimated **>250 patients** with confirmed P/LP variants in literature
-- Many variants identified through clinical genetic testing without publication
+- Estimated **>350 patients** with confirmed P/LP variants in literature
+- Major cohort studies report 201-400+ patients with pathogenic variants
+- Many additional variants identified through clinical genetic testing without publication
 
 ### 2.4 Variant-to-Patient Frequency for P/LP (variant별 환자수 빈도)
 

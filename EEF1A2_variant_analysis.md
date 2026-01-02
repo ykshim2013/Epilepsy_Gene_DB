@@ -26,12 +26,18 @@ title: EEF1A2 Variant Analysis
 | Other | 78 |
 
 ### 1.2 Total Publications (전체논문수)
-- **~20 published cases** in literature as of 2024
+- **~30 publications** on EEF1A2-related disorders in peer-reviewed literature
 - EEF1A2 is a relatively recently discovered epilepsy gene (first reports ~2012)
+- Key publications:
+  - [de Ligt et al. (2012)](https://pubmed.ncbi.nlm.nih.gov/22717650/) - First identification
+  - [Veeramah et al. (2013)](https://pubmed.ncbi.nlm.nih.gov/23664144/) - Early characterization
+  - [EJHG (2024)](https://www.nature.com/articles/s41431-024-01560-8) - 68 patients, largest cohort
 
 ### 1.3 Total Reported Patients (전체보고 환자수)
-- **<50 patients** with confirmed EEF1A2 mutations published worldwide
-- Rare disorder with limited case reports
+- **~68 patients** with confirmed EEF1A2 mutations published worldwide
+- 42 patients from literature + 26 additional patients in 2024 international cohort
+- 21 pathogenic missense variants identified across all patients
+- Rare disorder - ultra-rare with limited case reports
 
 ### 1.4 Variant-to-Patient Frequency Distribution (variant별 환자수 빈도)
 
@@ -51,10 +57,10 @@ title: EEF1A2 Variant Analysis
 |----------------|-------|
 | Pathogenic (P) | 69 |
 | Likely Pathogenic (LP) | 45 |
-| Pathogenic/Likely Pathogenic (P/LP)* | 7 |
-| **Total Unique P/LP Variants** | **107** |
+| Pathogenic/Likely Pathogenic (P/LP)* | 6 |
+| **Total Unique P/LP Variants** | **108** |
 
-*Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (69 + 45 - 7 = 107) to avoid double-counting.
+*Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (69 + 45 - 6 = 108) to avoid double-counting.
 
 ### 2.2 Publications for P/LP Variants (전체논문수)
 - Primary literature sources:
@@ -64,8 +70,9 @@ title: EEF1A2 Variant Analysis
   - [Mild epileptic phenotype with de novo EEF1A2 mutation (2019)](https://pubmed.ncbi.nlm.nih.gov/31477274/)
 
 ### 2.3 Reported Patients with P/LP Variants (전체보고 환자수)
-- Estimated **~30-40 patients** with confirmed P/LP variants
-- Many identified through clinical genetic testing without formal publication
+- Estimated **~68 patients** with confirmed P/LP variants
+- 2024 international collaborative study reported largest cohort (26 new + 42 literature)
+- Many additional patients identified through clinical genetic testing without formal publication
 
 ### 2.4 Variant-to-Patient Frequency for P/LP (variant별 환자수 빈도)
 

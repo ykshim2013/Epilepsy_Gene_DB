@@ -13,13 +13,13 @@ Comprehensive variant analysis reports for five epilepsy-related genes based on 
 
 ## Gene Reports
 
-| Gene | P | LP | P/LP* | Unique P/LP | Total ClinVar | Key Phenotype | Report |
-|------|---|----|----|-------------|---------------|---------------|--------|
-| **SCN2A** | 437 | 361 | 56 | **742** | 2,978 | DEE11, BFNIS | [View Report](SCN2A_variant_analysis.md) |
-| **EEF1A2** | 69 | 45 | 7 | **107** | 728 | DEE33 | [View Report](EEF1A2_variant_analysis.md) |
-| **KCNQ2** | 621 | 332 | 196 | **757** | 2,493 | BFNS, KCNQ2-DEE | [View Report](KCNQ2_variant_analysis.md) |
-| **SYNGAP1** | 323 | 129 | 22 | **430** | 1,833 | MRD5, SYNGAP1-DEE | [View Report](SYNGAP1_variant_analysis.md) |
-| **CDKL5** | 763 | 306 | 68 | **1,001** | 2,407 | CDD, DEE2 | [View Report](CDKL5_variant_analysis.md) |
+| Gene | P | LP | P/LP* | Unique P/LP | Total ClinVar | Publications | Reported Patients | Key Phenotype | Report |
+|------|---|----|----|-------------|---------------|--------------|-------------------|---------------|--------|
+| **SCN2A** | 437 | 361 | 56 | **742** | 2,978 | >150 | >400 | DEE11, BFNIS | [View Report](SCN2A_variant_analysis.md) |
+| **EEF1A2** | 69 | 45 | 6 | **108** | 728 | ~30 | ~68 | DEE33 | [View Report](EEF1A2_variant_analysis.md) |
+| **KCNQ2** | 621 | 332 | 88 | **865** | 2,493 | >200 | >500 | BFNS, KCNQ2-DEE | [View Report](KCNQ2_variant_analysis.md) |
+| **SYNGAP1** | 323 | 129 | 20 | **432** | 1,833 | >100 | ~246 | MRD5, SYNGAP1-DEE | [View Report](SYNGAP1_variant_analysis.md) |
+| **CDKL5** | 763 | 306 | 48 | **1,021** | 2,407 | >300 | >1,000 | CDD, DEE2 | [View Report](CDKL5_variant_analysis.md) |
 
 *P/LP = Variants with both Pathogenic and Likely Pathogenic submissions. Unique P/LP = P + LP - P/LP (to avoid double-counting).
 

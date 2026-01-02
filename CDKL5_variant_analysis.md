@@ -28,14 +28,20 @@ title: CDKL5 Variant Analysis
 | Structural Variants (≥ 50 bp) | 286 |
 
 ### 1.2 Total Publications (전체논문수)
-- Extensive literature since first description (2004)
+- **>300 publications** since first description (2004)
 - CDKL5 was initially described as early-onset seizure variant of Rett syndrome
 - Now recognized as **independent entity** (CDKL5 Deficiency Disorder - CDD)
+- Key publications:
+  - [Systematic review (2024)](https://pubmed.ncbi.nlm.nih.gov/40834685/) - 714 articles screened
+  - [Italian multi-center cohort (2024)](https://link.springer.com/article/10.1007/s00415-024-12421-1) - 34 patients
+  - [US cohort study (2021)](https://link.springer.com/article/10.1186/s11689-021-09384-z) - 177 patients
 
 ### 1.3 Total Reported Patients (전체보고 환자수)
-- **>500 patients** documented in published literature
-- International patient registries and advocacy groups exist
-- Female:Male ratio approximately **4:1**
+- **>1,000-1,500 patients** diagnosed worldwide
+- International CDKL5 Disorder Database: ~300 published cases
+- US cohort: 177 individuals from 4 CDKL5 Centers of Excellence
+- Female:Male ratio approximately **4:1** (X-linked)
+- Estimated incidence: **1 in 40,000-60,000 live births**
 
 ### 1.4 Variant-to-Patient Frequency Distribution (variant별 환자수 빈도)
 
@@ -55,10 +61,10 @@ title: CDKL5 Variant Analysis
 |----------------|-------|
 | Pathogenic (P) | 763 |
 | Likely Pathogenic (LP) | 306 |
-| Pathogenic/Likely Pathogenic (P/LP)* | 68 |
-| **Total Unique P/LP Variants** | **1,001** |
+| Pathogenic/Likely Pathogenic (P/LP)* | 48 |
+| **Total Unique P/LP Variants** | **1,021** |
 
-*Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (763 + 306 - 68 = 1,001) to avoid double-counting.
+*Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (763 + 306 - 48 = 1,021) to avoid double-counting.
 
 ### 2.2 Publications for P/LP Variants (전체논문수)
 - Primary literature sources:
@@ -68,8 +74,10 @@ title: CDKL5 Variant Analysis
   - [CDKL5 Deficiency Disorder-Related Epilepsy: Review (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9876658/)
 
 ### 2.3 Reported Patients with P/LP Variants (전체보고 환자수)
-- Estimated **>400 patients** with confirmed P/LP variants in literature
-- Large international cohorts studied
+- Estimated **>1,000 patients** with confirmed P/LP variants worldwide
+- International CDKL5 Disorder Database: ~300 published cases
+- US multi-center study: 177 patients with detailed phenotype
+- Large international cohorts studied across multiple continents
 
 ### 2.4 Variant-to-Patient Frequency for P/LP (variant별 환자수 빈도)
 

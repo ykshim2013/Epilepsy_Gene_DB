@@ -26,12 +26,16 @@ title: KCNQ2 Variant Analysis
 | Intronic Variants | Present |
 
 ### 1.2 Total Publications (전체논문수)
-- Extensive literature since first description in 1998
+- **>200 publications** since first description in 1998
 - KCNQ2 is the **most common single-gene cause** of neonatal-onset epilepsy
 - Estimated incidence: **1 per 17,000 live births** (2019 Scottish cohort study)
+- Key publications:
+  - [Neuropediatrics systematic review (2023)](https://pubmed.ncbi.nlm.nih.gov/36948217/) - 194 patients
+  - [Chinese cohort (2024)](https://pubmed.ncbi.nlm.nih.gov/39378103/) - 23 patients
 
 ### 1.3 Total Reported Patients (전체보고 환자수)
 - **>500 patients** documented in published literature
+- Systematic review (2023): 194 patients (104 DEE, 90 BFNS) from 29 retrospective studies
 - One of the more extensively studied neonatal epilepsy genes
 
 ### 1.4 Variant-to-Patient Frequency Distribution (variant별 환자수 빈도)
@@ -52,10 +56,10 @@ title: KCNQ2 Variant Analysis
 |----------------|-------|
 | Pathogenic (P) | 621 |
 | Likely Pathogenic (LP) | 332 |
-| Pathogenic/Likely Pathogenic (P/LP)* | 196 |
-| **Total Unique P/LP Variants** | **757** |
+| Pathogenic/Likely Pathogenic (P/LP)* | 88 |
+| **Total Unique P/LP Variants** | **865** |
 
-*Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (621 + 332 - 196 = 757) to avoid double-counting.
+*Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (621 + 332 - 88 = 865) to avoid double-counting.
 
 ### 2.2 Publications for P/LP Variants (전체논문수)
 - Primary literature sources:
@@ -66,6 +70,7 @@ title: KCNQ2 Variant Analysis
 
 ### 2.3 Reported Patients with P/LP Variants (전체보고 환자수)
 - Estimated **>400 patients** with confirmed P/LP variants
+- Systematic review collected 194 patients from 29 studies (104 DEE, 90 BFNS)
 - Strong publication record due to clinical importance
 
 ### 2.4 Variant-to-Patient Frequency for P/LP (variant별 환자수 빈도)

@@ -28,12 +28,17 @@ title: SYNGAP1 Variant Analysis
 | Indels | 15 |
 
 ### 1.2 Total Publications (전체논문수)
-- Extensive literature since first description (2009)
+- **>100 publications** since first description (2009)
 - SYNGAP1 encephalopathy comprises approximately **0.7-2% of all intellectual disability cases**
-- Estimated **>1 million people affected worldwide**
+- Estimated incidence: **1-4 per 10,000 individuals** (one of the most common causes of ID with epilepsy)
+- Key publications:
+  - [Clinical Genetics (2024)](https://pubmed.ncbi.nlm.nih.gov/39647930/) - 246 patients systematic review
+  - [Registry study (2024)](https://pubmed.ncbi.nlm.nih.gov/38470175/) - 147 patients
 
 ### 1.3 Total Reported Patients (전체보고 환자수)
-- **>200 patients** documented in published cohort studies
+- **~246 patients** documented in comprehensive systematic review (Clinical Genetics 2024)
+- Registry-based study: 147 patients with P/LP SYNGAP1 variants
+- ~200 known patients globally (SYNGAP1 Foundation)
 - Large international registries and patient communities exist
 
 ### 1.4 Variant-to-Patient Frequency Distribution (variant별 환자수 빈도)
@@ -54,10 +59,10 @@ title: SYNGAP1 Variant Analysis
 |----------------|-------|
 | Pathogenic (P) | 323 |
 | Likely Pathogenic (LP) | 129 |
-| Pathogenic/Likely Pathogenic (P/LP)* | 22 |
-| **Total Unique P/LP Variants** | **430** |
+| Pathogenic/Likely Pathogenic (P/LP)* | 20 |
+| **Total Unique P/LP Variants** | **432** |
 
-*Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (323 + 129 - 22 = 430) to avoid double-counting.
+*Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (323 + 129 - 20 = 432) to avoid double-counting.
 
 ### 2.2 Publications for P/LP Variants (전체논문수)
 - Primary literature sources:
@@ -67,7 +72,9 @@ title: SYNGAP1 Variant Analysis
   - [Phenotypes in Children with SYNGAP1 Encephalopathy in China (2021)](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.761473/full)
 
 ### 2.3 Reported Patients with P/LP Variants (전체보고 환자수)
-- Estimated **>150 patients** with confirmed P/LP variants in published literature
+- Estimated **~246 patients** with confirmed P/LP variants in published literature
+- Systematic review (2024): 246 patients with genotype-phenotype correlation
+- Registry-based study: 147 patients with detailed phenotype data
 - Additional patients in clinical databases and registries
 
 ### 2.4 Variant-to-Patient Frequency for P/LP (variant별 환자수 빈도)
