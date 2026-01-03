@@ -158,25 +158,95 @@ title: KCNQ2 Variant Analysis
 
 ## 4. Korean Patient Data (Korean patient)
 
-### 4.1 Variant Count (variant수)
-- First Korean case reported: **c.1342C>T (p.Arg448X)**
+### 4.1 Summary of Korean KCNQ2 Studies
 
-### 4.2 Publications (전체논문수)
+| Study | Year | Journal | Patients | Variants | Phenotype |
+|-------|------|---------|----------|----------|-----------|
+| Yum et al. | 2010 | J Korean Med Sci | 5 (1 family) | p.Arg448X | BFNC |
+| Yoon et al. | 2019 | Ann Child Neurol | 1 | p.Arg207Pro | Ohtahara syndrome |
+| Kim et al. | 2021 | Brain Dev | 13 | 10 missense, 2 deletions, 1 splice | KCNQ2 encephalopathy |
+| Kim et al. | 2024 | Epilepsia | 13 | Multiple | DEE/BFNE |
+| Kim et al. | 2025 | Ann Child Neurol | 20 | Various | 9 SLE, 11 DEE |
 
-| Reference | Year | Journal |
-|-----------|------|---------|
-| [First Korean Case of KCNQ2 Mutation in BFNC Family](https://pubmed.ncbi.nlm.nih.gov/20119593/) | 2010 | Journal of Korean Medical Science |
+**Total Korean patients reported: ~40+ unique patients**
 
-### 4.3 Reported Patients (전체보고 환자수)
-- First Korean case: Multiple affected family members
-- Additional cases likely in Korean clinical databases
+### 4.2 Variant List (Korean patients)
 
-### 4.4 Variant-to-Patient Frequency (variant별 환자수 빈도)
-- Familial pattern (1:multiple) in first reported case
-- De novo cases may exist but not specifically reported
+| Variant | Type | Phenotype | Reference |
+|---------|------|-----------|-----------|
+| c.1342C>T (p.Arg448X) | Nonsense (C-terminal) | BFNC - benign, seizure-free by 6mo | [Yum 2010](https://pubmed.ncbi.nlm.nih.gov/20119593/) |
+| c.620G>C (p.Arg207Pro) | Missense (de novo, novel) | Ohtahara syndrome | [Yoon 2019](https://www.annchildneurol.org/journal/view.php?number=1173) |
+| S4/S5/S6 domain variants | Missense (10 variants) | DEE/Encephalopathy | [Kim 2021](https://pubmed.ncbi.nlm.nih.gov/32917465/) |
+| Large deletions | CNV (2 variants) | KCNQ2-DEE | [Kim 2021](https://pubmed.ncbi.nlm.nih.gov/32917465/) |
+| Splice donor site | Splice (1 variant) | KCNQ2-DEE | [Kim 2021](https://pubmed.ncbi.nlm.nih.gov/32917465/) |
+| C-terminal region | Missense | DEE (more severe) | [Kim 2025](https://doi.org/10.26815/acn.2024.00787) |
+| Truncating variants | Nonsense/Frameshift | Self-limited epilepsy | [Kim 2025](https://doi.org/10.26815/acn.2024.00787) |
 
-**Key Finding from Korean Study:**
-> "Despite multiple infantile seizures, no epilepsy or psychomotor dysfunction occurred in any affected family members even without the use of antiepileptic drugs." - [JKMS, 2010](https://pubmed.ncbi.nlm.nih.gov/20119593/)
+### 4.3 Publications (전체논문수)
+
+| Reference | Year | Journal | DOI |
+|-----------|------|---------|-----|
+| [First Korean Case of KCNQ2 Mutation in BFNC Family](https://pubmed.ncbi.nlm.nih.gov/20119593/) | 2010 | J Korean Med Sci | 10.3346/jkms.2010.25.2.324 |
+| [Novel Mutation in KCNQ2 Causing Ohtahara Syndrome](https://www.annchildneurol.org/journal/view.php?number=1173) | 2019 | Ann Child Neurol | 10.26815/acn.2019.00178 |
+| [Clinical characteristics of KCNQ2 encephalopathy](https://pubmed.ncbi.nlm.nih.gov/32917465/) | 2021 | Brain Dev | 10.1016/j.braindev.2020.08.015 |
+| [Common genes in 957 Asian patients with pediatric epilepsy](https://pubmed.ncbi.nlm.nih.gov/38073125/) | 2024 | Epilepsia | 10.1111/epi.17857 |
+| [Genotype-Phenotype Correlations - Korean Multicenter Study](https://www.annchildneurol.org/upload/pdf/acn-2024-00787.pdf) | 2025 | Ann Child Neurol | 10.26815/acn.2024.00787 |
+
+### 4.4 Detailed Study Descriptions
+
+#### Study 1: First Korean Case (2010)
+- **Authors:** Yum MS, Ko TS, Yoo HW
+- **Institution:** Asan Medical Center, University of Ulsan College of Medicine
+- **Patients:** 5 individuals in 3 generations (autosomal dominant)
+- **Variant:** c.1342C>T (p.Arg448X) - C-terminal truncation
+- **Phenotype:** BFNC - seizure-free by 6 months, normal development
+- **Key Finding:** "Despite multiple infantile seizures, no epilepsy or psychomotor dysfunction occurred in any affected family members even without the use of antiepileptic drugs."
+
+#### Study 2: Ohtahara Syndrome Case (2019)
+- **Authors:** Yoon DH, Moon JU, Lee JY, Lee IG
+- **Institution:** Catholic University of Korea
+- **Patient:** 1 female, seizures from day 2 of life
+- **Variant:** c.620G>C (p.Arg207Pro) - de novo, first reported worldwide
+- **Phenotype:** Ohtahara syndrome with burst-suppression EEG
+- **Treatment:** Partial response to ketogenic diet; phenytoin/topiramate ineffective
+- **Outcome:** Bed-ridden state, emphasizing need for early genetic testing
+
+#### Study 3: Severance Hospital Cohort (2021)
+- **Authors:** Kim HJ, Yang D, Kim SH, Won D, Kim HD, Lee JS, Choi JR, Lee ST, Kang HC
+- **Institution:** Severance Children's Hospital, Yonsei University
+- **Patients:** 13 Korean patients (ages 3 months - 20.9 years)
+- **Variants:** 10 missense (S4, S5, S6, C-terminal), 2 large deletions, 1 splice site
+- **Phenotype:** 7 Ohtahara syndrome, 5 neonatal focal seizure, 1 focal epilepsy
+- **Treatment:** 12/13 became seizure-free with sodium channel blockers
+- **Key Finding:** Early recognition and sodium channel blocker use improves seizure control
+
+#### Study 4: Large Asian Cohort (2024)
+- **Authors:** Kim SH, Seo J, Kwon SS, et al.
+- **Institution:** Severance Children's Hospital
+- **Patients:** 13 with KCNQ2 (of 957 total Korean pediatric epilepsy patients)
+- **Finding:** KCNQ2 was 4th most common causative gene (after SCN1A, STXBP1, SCN2A)
+
+#### Study 5: Korean Multicenter Study (2025)
+- **Authors:** Kim EA, Yum MS, Lee S, Cho JS, Lee J, Lim BC
+- **Institutions:** 3 tertiary hospitals in Korea
+- **Patients:** 20 pediatric patients
+- **Phenotype:** 9 self-limited epilepsy, 11 DEE
+- **Genotype-Phenotype:** Missense → DEE; Truncating → self-limited
+- **Outcomes:** 75% achieved seizure control; 55% had comorbidities (ID, neuropsychiatric)
+- **Key Finding:** Genotype-phenotype correlations are complex; may be influenced by genetic modifiers, environmental factors, or dominant negative effects
+
+### 4.5 Reported Patients (전체보고 환자수)
+- **Total:** ~40+ unique Korean patients across published studies
+- First Korean case (2010): 5 affected family members
+- Ohtahara case (2019): 1 patient
+- Severance cohort (2021): 13 patients
+- Multicenter study (2025): 20 patients
+
+### 4.6 Variant-to-Patient Frequency (variant별 환자수 빈도)
+- Familial BFNC: 1:multiple (p.Arg448X in 5 family members)
+- De novo DEE: 1:1 (majority of encephalopathy cases)
+- Missense in DEE: More common than truncating
+- Truncating in SLE: More common than missense
 
 ---
 
@@ -271,21 +341,25 @@ title: KCNQ2 Variant Analysis
 
 ### Korean and Asian Population Data
 22. [First Korean Case of KCNQ2 Mutation in BFNC Family (2010)](https://pubmed.ncbi.nlm.nih.gov/20119593/)
-23. [KCNQ2-related epilepsy in Asian populations (2019)](https://pubmed.ncbi.nlm.nih.gov/31076358/)
+23. [Novel Mutation in KCNQ2 Causing Ohtahara Syndrome - Korean Case (2019)](https://www.annchildneurol.org/journal/view.php?number=1173)
+24. [Clinical characteristics of KCNQ2 encephalopathy - Severance Hospital (2021)](https://pubmed.ncbi.nlm.nih.gov/32917465/)
+25. [Common genes in 957 Asian patients with pediatric epilepsy (2024)](https://pubmed.ncbi.nlm.nih.gov/38073125/)
+26. [Genotype-Phenotype Correlations - Korean Multicenter Study (2025)](https://doi.org/10.26815/acn.2024.00787)
+27. [KCNQ2-related epilepsy in Asian populations (2019)](https://pubmed.ncbi.nlm.nih.gov/31076358/)
 
 ### Genotype-Phenotype Correlation
-24. [KCNQ2 mutation location determines clinical severity (2018)](https://pubmed.ncbi.nlm.nih.gov/29426433/)
-25. [Voltage-sensor domain mutations - severe phenotypes (2015)](https://pubmed.ncbi.nlm.nih.gov/26091794/)
-26. [Pore region variants predict encephalopathy (2019)](https://pubmed.ncbi.nlm.nih.gov/30850610/)
+28. [KCNQ2 mutation location determines clinical severity (2018)](https://pubmed.ncbi.nlm.nih.gov/29426433/)
+29. [Voltage-sensor domain mutations - severe phenotypes (2015)](https://pubmed.ncbi.nlm.nih.gov/26091794/)
+30. [Pore region variants predict encephalopathy (2019)](https://pubmed.ncbi.nlm.nih.gov/30850610/)
 
 ### Epidemiology
-27. [KCNQ2 - most common neonatal epilepsy gene (2019)](https://pubmed.ncbi.nlm.nih.gov/31343575/)
-28. [Incidence 1:17,000 - Scottish cohort study (2019)](https://pubmed.ncbi.nlm.nih.gov/30882445/)
+31. [KCNQ2 - most common neonatal epilepsy gene (2019)](https://pubmed.ncbi.nlm.nih.gov/31343575/)
+32. [Incidence 1:17,000 - Scottish cohort study (2019)](https://pubmed.ncbi.nlm.nih.gov/30882445/)
 
 ### Database Resources
-29. [OMIM #602235 - KCNQ2](https://www.omim.org/entry/602235)
-30. [OMIM #121200 - BFNS1](https://www.omim.org/entry/121200)
-31. [OMIM #613720 - KCNQ2-DEE](https://www.omim.org/entry/613720)
+33. [OMIM #602235 - KCNQ2](https://www.omim.org/entry/602235)
+34. [OMIM #121200 - BFNS1](https://www.omim.org/entry/121200)
+35. [OMIM #613720 - KCNQ2-DEE](https://www.omim.org/entry/613720)
 
 ---
 
