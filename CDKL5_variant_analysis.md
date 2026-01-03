@@ -14,9 +14,9 @@ title: CDKL5 Variant Analysis
 
 ---
 
-## 1. Overall Variant Summary (전체)
+## 1. Overall Variant Summary
 
-### 1.1 Total Variant Count (variant수)
+### 1.1 Total Variant Count
 
 | Category | Count |
 |----------|-------|
@@ -27,7 +27,7 @@ title: CDKL5 Variant Analysis
 | Short Variants (< 50 bp) | 2,121 |
 | Structural Variants (≥ 50 bp) | 286 |
 
-### 1.2 Total Publications (전체논문수)
+### 1.2 Total Publications
 - **>300 publications** since first description (2004)
 - CDKL5 was initially described as early-onset seizure variant of Rett syndrome
 - Now recognized as **independent entity** (CDKL5 Deficiency Disorder - CDD)
@@ -36,14 +36,14 @@ title: CDKL5 Variant Analysis
   - [Italian multi-center cohort (2024)](https://link.springer.com/article/10.1007/s00415-024-12421-1) - 34 patients
   - [US cohort study (2021)](https://link.springer.com/article/10.1186/s11689-021-09384-z) - 177 patients
 
-### 1.3 Total Reported Patients (전체보고 환자수)
+### 1.3 Total Reported Patients
 - **>1,000-1,500 patients** diagnosed worldwide
 - International CDKL5 Disorder Database: ~300 published cases
 - US cohort: 177 individuals from 4 CDKL5 Centers of Excellence
 - Female:Male ratio approximately **4:1** (X-linked)
 - Estimated incidence: **1 in 40,000-60,000 live births**
 
-### 1.4 Variant-to-Patient Frequency Distribution (variant별 환자수 빈도)
+### 1.4 Variant-to-Patient Frequency Distribution
 
 | Ratio (Variant:Patients) | Description |
 |--------------------------|-------------|
@@ -55,7 +55,7 @@ title: CDKL5 Variant Analysis
 
 ## 2. ClinVar Pathogenic/Likely Pathogenic (ClinVar P/LP)
 
-### 2.1 P/LP Variant Count (variant수)
+### 2.1 P/LP Variant Count
 
 | Classification | Count |
 |----------------|-------|
@@ -66,20 +66,20 @@ title: CDKL5 Variant Analysis
 
 *Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (763 + 306 - 48 = 1,021) to avoid double-counting.
 
-### 2.2 Publications for P/LP Variants (전체논문수)
+### 2.2 Publications for P/LP Variants
 - Primary literature sources:
   - [CDKL5 Deficiency Disorder - GeneReviews (2024)](https://www.ncbi.nlm.nih.gov/books/NBK602610/)
   - [Use of ketogenic diet in CDKL5 disorder: >100 patients (2017)](https://pubmed.ncbi.nlm.nih.gov/28605011/)
   - [Caregiver's perception of epilepsy treatment in CDKL5 patients (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6247997/)
   - [CDKL5 Deficiency Disorder-Related Epilepsy: Review (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9876658/)
 
-### 2.3 Reported Patients with P/LP Variants (전체보고 환자수)
+### 2.3 Reported Patients with P/LP Variants
 - Estimated **>1,000 patients** with confirmed P/LP variants worldwide
 - International CDKL5 Disorder Database: ~300 published cases
 - US multi-center study: 177 patients with detailed phenotype
 - Large international cohorts studied across multiple continents
 
-### 2.4 Variant-to-Patient Frequency for P/LP (variant별 환자수 빈도)
+### 2.4 Variant-to-Patient Frequency for P/LP
 
 | Frequency Pattern | Examples |
 |-------------------|----------|
@@ -94,11 +94,11 @@ title: CDKL5 Variant Analysis
 
 ---
 
-## 3. Non-ClinVar P/LP Variants (전체에서 ClinVar P/LP를 제외한)
+## 3. Non-ClinVar P/LP Variants
 
 *This section includes: (A) ClinVar variants classified as VUS/Benign/Likely Benign, AND (B) Literature-reported variants not yet in ClinVar*
 
-### 3.1 Variant Count (variant수)
+### 3.1 Variant Count
 
 #### A. ClinVar Non-P/LP Variants
 
@@ -126,7 +126,7 @@ title: CDKL5 Variant Analysis
 |----------|-------|
 | **Total Non-P/LP (ClinVar + Literature)** | **>1,338 + novel** |
 
-### 3.2 Publications (전체논문수)
+### 3.2 Publications
 - VUS often identified through clinical genetic testing
 - Benign variants from population databases
 - Key publications with novel non-ClinVar variants:
@@ -135,13 +135,13 @@ title: CDKL5 Variant Analysis
   - [Late truncating variants - phenotypic variability (2022)](https://pubmed.ncbi.nlm.nih.gov/35934918/)
   - [Molecular mechanism of pathogenic variants (2025)](https://www.mdpi.com/1422-0067/26/17/8399)
 
-### 3.3 Reported Patients (전체보고 환자수)
+### 3.3 Reported Patients
 - ClinVar VUS: Individual case findings requiring functional studies
 - ClinVar Benign/Likely Benign: Population frequency data
 - Novel literature variants: 15 patients with 5' UTR deletions (2024), multiple case reports
 - Rare male cases: Increasingly reported with hemizygous variants
 
-### 3.4 Variant-to-Patient Frequency (variant별 환자수 빈도)
+### 3.4 Variant-to-Patient Frequency
 - ClinVar VUS: Predominantly 1:1
 - ClinVar Benign: Higher population frequency
 - Novel literature variants: 1:1-15 (single cases to small cohorts)
@@ -202,7 +202,7 @@ title: CDKL5 Variant Analysis
 | 2020 | Na JH, Shin S, Yang D, Kim B, Kim HD, Kim S, Lee JS, Lee ST, Choi JR, Kang HC | Brain Dev | Targeted gene panel sequencing in early infantile onset DEE | [10.1016/j.braindev.2020.02.004](https://pubmed.ncbi.nlm.nih.gov/32139178/) |
 | 2024 | Kim SH, Kang HC, Lee JS, Lee ST, Choi JR, Kim HD | Epilepsia | Common genes and recurrent causative variants in 957 Asian patients with pediatric epilepsy | [10.1111/epi.17857](https://pubmed.ncbi.nlm.nih.gov/38073125/) |
 
-### 4.4 Reported Patients (전체보고 환자수)
+### 4.4 Reported Patients
 
 **Detailed Study Descriptions:**
 
@@ -351,9 +351,9 @@ title: CDKL5 Variant Analysis
 4. [Caregiver's perception of epilepsy treatment in CDKL5 (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6247997/)
 5. [Prevalence and onset of comorbidities in CDKL5 vs Rett (2016)](https://pubmed.ncbi.nlm.nih.gov/27080038/)
 6. [CDKL5 disorder recognized as independent entity from Rett (2016)](https://pubmed.ncbi.nlm.nih.gov/27080038/)
-7. [Early-onset infantile spasms in CDKL5 (2008)](https://pubmed.ncbi.nlm.nih.gov/18261936/)
+7. [CDKL5 mutations cause infantile spasms and severe mental retardation (2006)](https://pubmed.ncbi.nlm.nih.gov/16611748/)
 8. [CDKL5 mutations cause severe DEE (2004)](https://pubmed.ncbi.nlm.nih.gov/15499549/)
-9. [Clinical spectrum of CDKL5-related disorders (2012)](https://pubmed.ncbi.nlm.nih.gov/22612873/)
+9. [CDKL5-Related Disorders: Clinical Description to Molecular Genetics (2012)](https://pubmed.ncbi.nlm.nih.gov/22670135/)
 10. [Seizure onset at median 6 weeks - large cohort (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6247997/)
 11. [Female:Male ratio 4:1 in CDKL5 (2019)](https://pubmed.ncbi.nlm.nih.gov/30929312/)
 
@@ -377,14 +377,14 @@ title: CDKL5 Variant Analysis
 26. [>250 pathogenic CDKL5 variants reported (2020)](https://pubmed.ncbi.nlm.nih.gov/32579897/)
 
 ### Functional Studies
-27. [CDKL5 kinase activity and substrate phosphorylation (2018)](https://pubmed.ncbi.nlm.nih.gov/29311367/)
-28. [CDKL5 regulates neuronal morphogenesis (2012)](https://pubmed.ncbi.nlm.nih.gov/22169038/)
-29. [Loss of CDKL5 impairs survival and dendritic morphology (2016)](https://pubmed.ncbi.nlm.nih.gov/27281227/)
+27. [Chemical genetic identification of CDKL5 substrates - microtubule dynamics (2018)](https://pubmed.ncbi.nlm.nih.gov/30266824/)
+28. [CDKL5 regulates neuronal morphogenesis via Rac1 signaling (2010)](https://pubmed.ncbi.nlm.nih.gov/20861382/)
+29. [Loss of CDKL5 impairs survival and dendritic growth - AKT/GSK-3β (2014)](https://pubmed.ncbi.nlm.nih.gov/24952363/)
 
 ### Genotype-Phenotype Correlation
-30. [Mutation type and position affect severity (2018)](https://pubmed.ncbi.nlm.nih.gov/29432587/)
-31. [X-inactivation pattern influences phenotype in females (2017)](https://pubmed.ncbi.nlm.nih.gov/28577558/)
-32. [Catalytic domain mutations - more severe (2019)](https://pubmed.ncbi.nlm.nih.gov/30929312/)
+30. [Recurrent CDKL5 mutations: genotype-phenotype relationships (2012)](https://pubmed.ncbi.nlm.nih.gov/22678952/)
+31. [Exploring genotype-phenotype relationships - international dataset (2020)](https://pubmed.ncbi.nlm.nih.gov/33047306/)
+32. [Key clinical features to identify girls with CDKL5 mutations (2008)](https://pubmed.ncbi.nlm.nih.gov/18790821/)
 
 ### Korean/Asian Population Data
 33. [Ko A et al. Ketogenic Diet Efficacy in DEE with CDKL5 - 10 Korean patients (2018)](https://pubmed.ncbi.nlm.nih.gov/30034340/) - DOI: 10.3389/fneur.2018.00530

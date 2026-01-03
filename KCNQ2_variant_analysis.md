@@ -14,9 +14,9 @@ title: KCNQ2 Variant Analysis
 
 ---
 
-## 1. Overall Variant Summary (전체)
+## 1. Overall Variant Summary
 
-### 1.1 Total Variant Count (variant수)
+### 1.1 Total Variant Count
 
 | Category | Count |
 |----------|-------|
@@ -25,7 +25,7 @@ title: KCNQ2 Variant Analysis
 | Deletions/Duplications | Present |
 | Intronic Variants | Present |
 
-### 1.2 Total Publications (전체논문수)
+### 1.2 Total Publications
 - **>200 publications** since first description in 1998
 - KCNQ2 is the **most common single-gene cause** of neonatal-onset epilepsy
 - Estimated incidence: **1 per 17,000 live births** (2019 Scottish cohort study)
@@ -33,12 +33,12 @@ title: KCNQ2 Variant Analysis
   - [Neuropediatrics systematic review (2023)](https://pubmed.ncbi.nlm.nih.gov/36948217/) - 194 patients
   - [Chinese cohort (2024)](https://pubmed.ncbi.nlm.nih.gov/39378103/) - 23 patients
 
-### 1.3 Total Reported Patients (전체보고 환자수)
+### 1.3 Total Reported Patients
 - **>500 patients** documented in published literature
 - Systematic review (2023): 194 patients (104 DEE, 90 BFNS) from 29 retrospective studies
 - One of the more extensively studied neonatal epilepsy genes
 
-### 1.4 Variant-to-Patient Frequency Distribution (variant별 환자수 빈도)
+### 1.4 Variant-to-Patient Frequency Distribution
 
 | Ratio (Variant:Patients) | Description |
 |--------------------------|-------------|
@@ -50,7 +50,7 @@ title: KCNQ2 Variant Analysis
 
 ## 2. ClinVar Pathogenic/Likely Pathogenic (ClinVar P/LP)
 
-### 2.1 P/LP Variant Count (variant수)
+### 2.1 P/LP Variant Count
 
 | Classification | Count |
 |----------------|-------|
@@ -61,19 +61,19 @@ title: KCNQ2 Variant Analysis
 
 *Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (621 + 332 - 88 = 865) to avoid double-counting.
 
-### 2.2 Publications for P/LP Variants (전체논문수)
+### 2.2 Publications for P/LP Variants
 - Primary literature sources:
   - [KCNQ2 encephalopathy: electroclinical phenotype and treatment response (2014)](https://pubmed.ncbi.nlm.nih.gov/24371303/)
   - [Early and effective treatment of KCNQ2 encephalopathy (2015)](https://pubmed.ncbi.nlm.nih.gov/25880994/)
   - [KCNQ2 mutations in childhood nonlesional epilepsy (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6625149/)
   - [Nine patients with KCNQ2-related neonatal seizures (2023)](https://www.nature.com/articles/s41598-023-29924-y)
 
-### 2.3 Reported Patients with P/LP Variants (전체보고 환자수)
+### 2.3 Reported Patients with P/LP Variants
 - Estimated **>400 patients** with confirmed P/LP variants
 - Systematic review collected 194 patients from 29 studies (104 DEE, 90 BFNS)
 - Strong publication record due to clinical importance
 
-### 2.4 Variant-to-Patient Frequency for P/LP (variant별 환자수 빈도)
+### 2.4 Variant-to-Patient Frequency for P/LP
 
 | Frequency Pattern | Examples |
 |-------------------|----------|
@@ -88,11 +88,11 @@ title: KCNQ2 Variant Analysis
 
 ---
 
-## 3. Non-ClinVar P/LP Variants (전체에서 ClinVar P/LP를 제외한)
+## 3. Non-ClinVar P/LP Variants
 
 *This section includes: (A) ClinVar variants classified as VUS/Benign/Likely Benign, AND (B) Literature-reported variants not yet in ClinVar*
 
-### 3.1 Variant Count (variant수)
+### 3.1 Variant Count
 
 #### A. ClinVar Non-P/LP Variants
 
@@ -120,7 +120,7 @@ title: KCNQ2 Variant Analysis
 |----------|-------|
 | **Total Non-P/LP (ClinVar + Literature)** | **>1,540 + ~50 novel** |
 
-### 3.2 Publications (전체논문수)
+### 3.2 Publications
 - VUS often identified through clinical genetic testing
 - Benign variants from population databases
 - Key publications with novel non-ClinVar variants:
@@ -129,12 +129,12 @@ title: KCNQ2 Variant Analysis
   - [KCNQ2 R144 Gain-of-Function Variants (2022)](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(22)00311-5/fulltext)
   - [High-throughput evaluation of 81 KCNQ2 variants (2022)](https://insight.jci.org/articles/view/156314)
 
-### 3.3 Reported Patients (전체보고 환자수)
+### 3.3 Reported Patients
 - ClinVar VUS: Individual case identifications
 - ClinVar Benign/Likely Benign: Population frequency data
 - Novel literature variants: Multiple patients per publication (e.g., 30 patients in 2022 Frontiers study, 20 patients with R144 variants)
 
-### 3.4 Variant-to-Patient Frequency (variant별 환자수 빈도)
+### 3.4 Variant-to-Patient Frequency
 - ClinVar VUS: Predominantly 1:1
 - ClinVar Benign: Higher population frequency in gnomAD
 - Novel literature variants: Variable (1:1 for rare variants, 1:multiple for familial cases)
@@ -182,7 +182,7 @@ title: KCNQ2 Variant Analysis
 | C-terminal region | Missense | DEE (more severe) | [Kim 2025](https://doi.org/10.26815/acn.2024.00787) |
 | Truncating variants | Nonsense/Frameshift | Self-limited epilepsy | [Kim 2025](https://doi.org/10.26815/acn.2024.00787) |
 
-### 4.3 Publications (전체논문수)
+### 4.3 Publications
 
 | Reference | Year | Journal | DOI |
 |-----------|------|---------|-----|
@@ -235,14 +235,14 @@ title: KCNQ2 Variant Analysis
 - **Outcomes:** 75% achieved seizure control; 55% had comorbidities (ID, neuropsychiatric)
 - **Key Finding:** Genotype-phenotype correlations are complex; may be influenced by genetic modifiers, environmental factors, or dominant negative effects
 
-### 4.5 Reported Patients (전체보고 환자수)
+### 4.5 Reported Patients
 - **Total:** ~40+ unique Korean patients across published studies
 - First Korean case (2010): 5 affected family members
 - Ohtahara case (2019): 1 patient
 - Severance cohort (2021): 13 patients
 - Multicenter study (2025): 20 patients
 
-### 4.6 Variant-to-Patient Frequency (variant별 환자수 빈도)
+### 4.6 Variant-to-Patient Frequency
 - Familial BFNC: 1:multiple (p.Arg448X in 5 family members)
 - De novo DEE: 1:1 (majority of encephalopathy cases)
 - Missense in DEE: More common than truncating
@@ -320,8 +320,8 @@ title: KCNQ2 Variant Analysis
 5. [Early and effective treatment of KCNQ2 encephalopathy (2015)](https://pubmed.ncbi.nlm.nih.gov/25880994/)
 6. [KCNQ2 mutations in childhood nonlesional epilepsy (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6625149/)
 7. [Nine patients with KCNQ2-related neonatal seizures (2023)](https://www.nature.com/articles/s41598-023-29924-y)
-8. [KCNQ2 neonatal epileptic encephalopathy - clinical spectrum (2012)](https://pubmed.ncbi.nlm.nih.gov/22612257/)
-9. [Phenotype-genotype correlations in KCNQ2-related disorders (2016)](https://pubmed.ncbi.nlm.nih.gov/27107878/)
+8. [KCNQ2 encephalopathy: emerging phenotype - Weckhuysen (2012)](https://pubmed.ncbi.nlm.nih.gov/22275249/)
+9. [Clinical spectrum of KCNQ2 mutations - Ohtahara syndrome (2013)](https://pubmed.ncbi.nlm.nih.gov/23621294/)
 10. [BFNS and KCNQ2 encephalopathy - phenotypic continuum (2018)](https://pubmed.ncbi.nlm.nih.gov/29961737/)
 
 ### Treatment and ASM Response
@@ -348,13 +348,13 @@ title: KCNQ2 Variant Analysis
 27. [KCNQ2-related epilepsy in Asian populations (2019)](https://pubmed.ncbi.nlm.nih.gov/31076358/)
 
 ### Genotype-Phenotype Correlation
-28. [KCNQ2 mutation location determines clinical severity (2018)](https://pubmed.ncbi.nlm.nih.gov/29426433/)
-29. [Voltage-sensor domain mutations - severe phenotypes (2015)](https://pubmed.ncbi.nlm.nih.gov/26091794/)
-30. [Pore region variants predict encephalopathy (2019)](https://pubmed.ncbi.nlm.nih.gov/30850610/)
+28. [KCNQ2-Associated Neonatal Epilepsy: Phenotype correlates with genotype (2017)](https://pubmed.ncbi.nlm.nih.gov/28399683/)
+29. [Voltage-sensor gain-of-function mutations - encephalopathy (2015)](https://pubmed.ncbi.nlm.nih.gov/25740509/)
+30. [KCNQ2 variants: benign vs encephalopathy characteristics (2019)](https://pubmed.ncbi.nlm.nih.gov/31418850/)
 
 ### Epidemiology
-31. [KCNQ2 - most common neonatal epilepsy gene (2019)](https://pubmed.ncbi.nlm.nih.gov/31343575/)
-32. [Incidence 1:17,000 - Scottish cohort study (2019)](https://pubmed.ncbi.nlm.nih.gov/30882445/)
+31. [Incidence and phenotypes of childhood-onset genetic epilepsies - Scottish cohort (2019)](https://pubmed.ncbi.nlm.nih.gov/31302675/)
+32. [KCNQ2 mutation hotspots and pathogenetic mechanisms (2020)](https://pubmed.ncbi.nlm.nih.gov/32179837/)
 
 ### Database Resources
 33. [OMIM #602235 - KCNQ2](https://www.omim.org/entry/602235)

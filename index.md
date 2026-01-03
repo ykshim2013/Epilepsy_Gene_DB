@@ -43,7 +43,7 @@ Comprehensive variant analysis reports for five epilepsy-related genes based on 
 
 Each report contains:
 
-### 1. 전체 (Overall Summary)
+### 1. Overall Summary
 - Total variant count
 - Total publications
 - Total reported patients
@@ -55,7 +55,7 @@ Each report contains:
 - Patient counts
 - Recurrent variant examples
 
-### 3. Non-P/LP Variants (전체에서 ClinVar P/LP를 제외한)
+### 3. Non-P/LP Variants
 - ClinVar VUS/Benign/Likely Benign/Conflicting Classifications
 - Literature-reported variants NOT in ClinVar
 - Distribution by ClinVar classification category

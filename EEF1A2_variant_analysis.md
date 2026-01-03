@@ -14,9 +14,9 @@ title: EEF1A2 Variant Analysis
 
 ---
 
-## 1. Overall Variant Summary (전체)
+## 1. Overall Variant Summary
 
-### 1.1 Total Variant Count (variant수)
+### 1.1 Total Variant Count
 
 | Category | Count |
 |----------|-------|
@@ -25,7 +25,7 @@ title: EEF1A2 Variant Analysis
 | Structural Variants (≥ 50 bp) | 26 |
 | Other | 78 |
 
-### 1.2 Total Publications (전체논문수)
+### 1.2 Total Publications
 - **~30 publications** on EEF1A2-related disorders in peer-reviewed literature
 - EEF1A2 is a relatively recently discovered epilepsy gene (first reports ~2012)
 - Key publications:
@@ -33,13 +33,13 @@ title: EEF1A2 Variant Analysis
   - [Veeramah et al. (2013)](https://pubmed.ncbi.nlm.nih.gov/23664144/) - Early characterization
   - [EJHG (2024)](https://www.nature.com/articles/s41431-024-01560-8) - 68 patients, largest cohort
 
-### 1.3 Total Reported Patients (전체보고 환자수)
+### 1.3 Total Reported Patients
 - **~68 patients** with confirmed EEF1A2 mutations published worldwide
 - 42 patients from literature + 26 additional patients in 2024 international cohort
 - 21 pathogenic missense variants identified across all patients
 - Rare disorder - ultra-rare with limited case reports
 
-### 1.4 Variant-to-Patient Frequency Distribution (variant별 환자수 빈도)
+### 1.4 Variant-to-Patient Frequency Distribution
 
 | Ratio (Variant:Patients) | Description |
 |--------------------------|-------------|
@@ -51,7 +51,7 @@ title: EEF1A2 Variant Analysis
 
 ## 2. ClinVar Pathogenic/Likely Pathogenic (ClinVar P/LP)
 
-### 2.1 P/LP Variant Count (variant수)
+### 2.1 P/LP Variant Count
 
 | Classification | Count |
 |----------------|-------|
@@ -62,19 +62,19 @@ title: EEF1A2 Variant Analysis
 
 *Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (69 + 45 - 6 = 108) to avoid double-counting.
 
-### 2.2 Publications for P/LP Variants (전체논문수)
+### 2.2 Publications for P/LP Variants
 - Primary literature sources:
   - [Damaging de novo missense variants in EEF1A2 (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7292794/)
   - [Novel de novo EEF1A2 missense mutations causing epilepsy and ID (2016)](https://pubmed.ncbi.nlm.nih.gov/27441201/)
   - [Two cases of early-onset myoclonic seizures with EEF1A2 mutations (2016)](https://pubmed.ncbi.nlm.nih.gov/26682508/)
   - [Mild epileptic phenotype with de novo EEF1A2 mutation (2019)](https://pubmed.ncbi.nlm.nih.gov/31477274/)
 
-### 2.3 Reported Patients with P/LP Variants (전체보고 환자수)
+### 2.3 Reported Patients with P/LP Variants
 - Estimated **~68 patients** with confirmed P/LP variants
 - 2024 international collaborative study reported largest cohort (26 new + 42 literature)
 - Many additional patients identified through clinical genetic testing without formal publication
 
-### 2.4 Variant-to-Patient Frequency for P/LP (variant별 환자수 빈도)
+### 2.4 Variant-to-Patient Frequency for P/LP
 
 | Frequency Pattern | Examples |
 |-------------------|----------|
@@ -89,11 +89,11 @@ title: EEF1A2 Variant Analysis
 
 ---
 
-## 3. Non-ClinVar P/LP Variants (전체에서 ClinVar P/LP를 제외한)
+## 3. Non-ClinVar P/LP Variants
 
 *This section includes: (A) ClinVar variants classified as VUS/Benign/Likely Benign, AND (B) Literature-reported variants not yet in ClinVar*
 
-### 3.1 Variant Count (variant수)
+### 3.1 Variant Count
 
 #### A. ClinVar Non-P/LP Variants
 
@@ -119,7 +119,7 @@ title: EEF1A2 Variant Analysis
 |----------|-------|
 | **Total Non-P/LP (ClinVar + Literature)** | **>614 + novel** |
 
-### 3.2 Publications (전체논문수)
+### 3.2 Publications
 - Limited publications for VUS variants due to rarity of EEF1A2 disorders
 - Benign variants predominantly from population databases
 - Key publications with novel/recent variants:
@@ -127,13 +127,13 @@ title: EEF1A2 Variant Analysis
   - [Face-valid phenotypes in EEF1A2 mouse model (2024)](https://pubmed.ncbi.nlm.nih.gov/32160274/) - Disease Models & Mechanisms
   - [Autism/epilepsy EEF1A2 mutations - functional study (2023)](https://www.pnas.org/doi/10.1073/pnas.2307704120)
 
-### 3.3 Reported Patients (전체보고 환자수)
+### 3.3 Reported Patients
 - ClinVar VUS: Often single patient identifications through clinical testing
 - ClinVar Benign/Likely Benign: Population frequency data (gnomAD)
 - Novel literature variants: <40 individuals reported worldwide with pathogenic variants
 - Total published cases: **<50 patients globally** (extremely rare)
 
-### 3.4 Variant-to-Patient Frequency (variant별 환자수 빈도)
+### 3.4 Variant-to-Patient Frequency
 - ClinVar VUS: Predominantly 1:1
 - ClinVar Benign: Higher population frequency
 - Novel literature variants: 1:1 (single case reports typical for this rare gene)
@@ -157,12 +157,12 @@ title: EEF1A2 Variant Analysis
 
 ## 4. Korean Patient Data (Korean patient)
 
-### 4.1 Variant Count (variant수)
+### 4.1 Variant Count
 - **No Korean EEF1A2 patients identified** in published literature (as of January 2026)
 - EEF1A2 was **not among the top genes** in the largest Korean epilepsy cohort study (Kim SH et al. 2024)
 - Expected prevalence is extremely low (global estimate: <70 published cases)
 
-### 4.2 Publications (전체논문수)
+### 4.2 Publications
 
 | Study | Finding for EEF1A2 |
 |-------|-------------------|
@@ -175,11 +175,11 @@ title: EEF1A2 Variant Analysis
 - Top genes identified: SCN1A (49), STXBP1 (15), SCN2A (14), KCNQ2 (13), CDKL5 (11)
 - **EEF1A2 not reported** - likely 0 cases or too few to list
 
-### 4.3 Reported Patients (전체보고 환자수)
+### 4.3 Reported Patients
 - **0 published Korean patients** with EEF1A2 mutations
 - Cases may exist in unpublished clinical databases
 
-### 4.4 Variant-to-Patient Frequency (variant별 환자수 빈도)
+### 4.4 Variant-to-Patient Frequency
 - Data not available from Korean sources
 
 ### 4.5 Asian Population Data
@@ -273,20 +273,20 @@ While no Korean-specific data exists, EEF1A2 cases have been reported from other
 5. [Mild epileptic phenotype with de novo EEF1A2 mutation: Case report (2019)](https://pubmed.ncbi.nlm.nih.gov/31477274/)
 6. [Two cases of early-onset myoclonic seizures with EEF1A2 mutations (2016)](https://pubmed.ncbi.nlm.nih.gov/26682508/)
 7. [EEF1A2 pathogenic variant with respiratory phenotype (2022)](https://pubmed.ncbi.nlm.nih.gov/35938194/)
-8. [De novo missense mutations in EEF1A2 - first identification (2012)](https://pubmed.ncbi.nlm.nih.gov/22717650/)
-9. [EEF1A2 mutations cause Lennox-Gastaut syndrome (2015)](https://pubmed.ncbi.nlm.nih.gov/26091791/)
-10. [Expanding the phenotype of EEF1A2-related disorders (2017)](https://pubmed.ncbi.nlm.nih.gov/28432742/)
+8. [Diagnostic exome sequencing - first EEF1A2 identification (2012)](https://pubmed.ncbi.nlm.nih.gov/23033978/)
+9. [De novo EEF1A2 mutations with characteristic facial features (2014)](https://pubmed.ncbi.nlm.nih.gov/24697219/)
+10. [Novel de novo EEF1A2 missense mutations - expanded phenotype (2016)](https://pubmed.ncbi.nlm.nih.gov/27441201/)
 
 ### Functional Studies
 11. [Autism- and epilepsy-associated EEF1A2 mutations - functional study (2023)](https://www.pnas.org/doi/10.1073/pnas.2307704120)
-12. [Functional characterization of EEF1A2 missense variants (2021)](https://pubmed.ncbi.nlm.nih.gov/33647996/)
-13. [EEF1A2 gain-of-function mechanism in epilepsy (2020)](https://pubmed.ncbi.nlm.nih.gov/32062104/)
-14. [Crystal structure insights into EEF1A2 mutations (2019)](https://pubmed.ncbi.nlm.nih.gov/30742125/)
+12. [Damaging de novo EEF1A2 missense variants - epileptic-dyskinetic encephalopathy (2020)](https://pubmed.ncbi.nlm.nih.gov/32062104/)
+13. [Structural cues for understanding eEF1A2 moonlighting (2020)](https://pubmed.ncbi.nlm.nih.gov/32875694/)
+14. [Mammalian eEF1A2 X-ray structure (2014)](https://pubmed.ncbi.nlm.nih.gov/25326326/)
 
 ### Animal Models
-15. [Face-valid phenotypes in EEF1A2 mouse model (2020)](https://pubmed.ncbi.nlm.nih.gov/32160274/)
-16. [Wasted mouse model - EEF1A2 neurological function (2001)](https://pubmed.ncbi.nlm.nih.gov/11741834/)
-17. [EEF1A2 knockout mouse neurodegeneration study (2005)](https://pubmed.ncbi.nlm.nih.gov/15800059/)
+15. [D252H mutation mice - toxic gain of function (2020)](https://pubmed.ncbi.nlm.nih.gov/32160274/)
+16. [Progressive motor neuron loss in wasted mice - eEF1A2 null (2005)](https://pubmed.ncbi.nlm.nih.gov/15835265/)
+17. [Biallelic EEF1A2 mutations cause seizures and sudden death in mice (2017)](https://pubmed.ncbi.nlm.nih.gov/28378778/)
 
 ### Genotype-Phenotype Correlation
 18. [Recurrent EEF1A2 mutations - p.Gly70Ser and p.Phe98Leu (2016)](https://pubmed.ncbi.nlm.nih.gov/27441201/)
@@ -294,8 +294,8 @@ While no Korean-specific data exists, EEF1A2 cases have been reported from other
 20. [tRNA binding site mutations vs GTP hydrolysis domain (2019)](https://pubmed.ncbi.nlm.nih.gov/31477274/)
 
 ### Molecular Biology
-21. [EEF1A2 expression restricted to neurons and muscle (2000)](https://pubmed.ncbi.nlm.nih.gov/10722731/)
-22. [Translation elongation factor function in neuronal development (2012)](https://pubmed.ncbi.nlm.nih.gov/22389386/)
+21. [Wasted mouse - EEF1A2 deletion abolishes expression (1998)](https://pubmed.ncbi.nlm.nih.gov/9539760/)
+22. [The role of eEF1 subunits in neurodevelopmental disorders (2018)](https://pubmed.ncbi.nlm.nih.gov/30370994/)
 
 ### Database Resources
 23. [OMIM #602959 - EEF1A2](https://www.omim.org/entry/602959)

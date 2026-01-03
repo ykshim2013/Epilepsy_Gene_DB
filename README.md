@@ -51,7 +51,7 @@ Comprehensive variant analysis reports for five epilepsy-related genes based on 
 
 Each gene report includes:
 
-1. **Overall Summary (전체)** - Total variant counts, publications, patient numbers
+1. **Overall Summary** - Total variant counts, publications, patient numbers
 2. **ClinVar P/LP** - Pathogenic and Likely Pathogenic variants
 3. **Non-P/LP Variants** - VUS, Benign, Conflicting Classifications, and literature-only variants
 4. **Korean Patient Data** - Korean-specific publications and variants

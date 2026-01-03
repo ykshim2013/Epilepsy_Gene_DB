@@ -14,9 +14,9 @@ title: SCN2A Variant Analysis
 
 ---
 
-## 1. Overall Variant Summary (전체)
+## 1. Overall Variant Summary
 
-### 1.1 Total Variant Count (variant수)
+### 1.1 Total Variant Count
 
 | Category | Count |
 |----------|-------|
@@ -25,7 +25,7 @@ title: SCN2A Variant Analysis
 | Indels/Duplications | Present |
 | Intronic/UTR Variants | Present |
 
-### 1.2 Total Publications (전체논문수)
+### 1.2 Total Publications
 - **>150 publications** on SCN2A-related epilepsy in peer-reviewed literature
 - Key publications span from 2001 to present
 - Major cohort studies:
@@ -33,13 +33,13 @@ title: SCN2A Variant Analysis
   - [Brain (2024)](https://academic.oup.com/brain/article/147/8/2761/7656659) - 81 patients with functional analysis
   - [Chinese cohort (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9005871/) - 72 patients
 
-### 1.3 Total Reported Patients (전체보고 환자수)
+### 1.3 Total Reported Patients
 - **>400 patients** documented in published literature worldwide
 - Major cohort: 201 patients in Wolff et al. (2017) systematic review
 - 81 patients with detailed phenotype-genotype correlation (Brain 2024)
 - Continuous growth in case reports since widespread genetic testing adoption
 
-### 1.4 Variant-to-Patient Frequency Distribution (variant별 환자수 빈도)
+### 1.4 Variant-to-Patient Frequency Distribution
 
 | Ratio (Variant:Patients) | Description |
 |--------------------------|-------------|
@@ -51,7 +51,7 @@ title: SCN2A Variant Analysis
 
 ## 2. ClinVar Pathogenic/Likely Pathogenic (ClinVar P/LP)
 
-### 2.1 P/LP Variant Count (variant수)
+### 2.1 P/LP Variant Count
 
 | Classification | Count |
 |----------------|-------|
@@ -62,19 +62,19 @@ title: SCN2A Variant Analysis
 
 *Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (437 + 361 - 56 = 742) to avoid double-counting.
 
-### 2.2 Publications for P/LP Variants (전체논문수)
+### 2.2 Publications for P/LP Variants
 - Primary literature sources linked in ClinVar
 - Key references include:
   - [SCN2A Pathogenic Variants and Epilepsy (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8773615/)
   - [The phenotypic spectrum of SCN2A-related epilepsy](https://www.sciencedirect.com/science/article/abs/pii/S1090379819304362)
   - [SCN2A encephalopathy: epilepsy of infancy with migrating focal seizures](https://pmc.ncbi.nlm.nih.gov/articles/PMC4567464/)
 
-### 2.3 Reported Patients with P/LP Variants (전체보고 환자수)
+### 2.3 Reported Patients with P/LP Variants
 - Estimated **>350 patients** with confirmed P/LP variants in literature
 - Major cohort studies report 201-400+ patients with pathogenic variants
 - Many additional variants identified through clinical genetic testing without publication
 
-### 2.4 Variant-to-Patient Frequency for P/LP (variant별 환자수 빈도)
+### 2.4 Variant-to-Patient Frequency for P/LP
 
 | Frequency Pattern | Examples |
 |-------------------|----------|
@@ -89,11 +89,11 @@ title: SCN2A Variant Analysis
 
 ---
 
-## 3. Non-ClinVar P/LP Variants (전체에서 ClinVar P/LP를 제외한)
+## 3. Non-ClinVar P/LP Variants
 
 *This section includes: (A) ClinVar variants classified as VUS/Benign/Likely Benign, AND (B) Literature-reported variants not yet in ClinVar*
 
-### 3.1 Variant Count (variant수)
+### 3.1 Variant Count
 
 #### A. ClinVar Non-P/LP Variants
 
@@ -120,7 +120,7 @@ title: SCN2A Variant Analysis
 |----------|-------|
 | **Total Non-P/LP (ClinVar + Literature)** | **>2,180 + novel** |
 
-### 3.2 Publications (전체논문수)
+### 3.2 Publications
 - VUS variants often reported in case series without functional confirmation
 - Novel variants typically published with functional electrophysiology data
 - Key publications with novel non-ClinVar variants:
@@ -128,12 +128,12 @@ title: SCN2A Variant Analysis
   - [Novel SCN2A-M1879T variant in infantile epilepsy (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7480906/)
   - [Human Cortical Organoids with Novel SCN2A Variant (2025)](https://pubmed.ncbi.nlm.nih.gov/40540154/)
 
-### 3.3 Reported Patients (전체보고 환자수)
+### 3.3 Reported Patients
 - ClinVar VUS: Variable reporting, many identified through clinical testing
 - ClinVar Benign/Likely Benign: Predominantly from population databases (gnomAD)
 - Novel literature variants: Typically 1-3 patients per publication with functional studies
 
-### 3.4 Variant-to-Patient Frequency (variant별 환자수 빈도)
+### 3.4 Variant-to-Patient Frequency
 - ClinVar VUS: Predominantly 1:1 (individual patient findings)
 - ClinVar Benign: Higher frequency in population (1:many in gnomAD)
 - Novel literature variants: 1:1 (single case reports with functional validation)
@@ -157,7 +157,7 @@ title: SCN2A Variant Analysis
 
 ## 4. Korean Patient Data (Korean patient)
 
-### 4.1 Variant Count (variant수)
+### 4.1 Variant Count
 - **25 Korean patients** with SCN2A mutations documented in published literature
   - Kim HJ et al. 2020: 11 patients with detailed phenotype/treatment data
   - Kim SH et al. 2024: 14 patients from large Korean epilepsy cohort
@@ -165,7 +165,7 @@ title: SCN2A Variant Analysis
 - All neonatal/infantile-onset patients had missense mutations
 - Childhood-onset patient had truncation mutation
 
-### 4.2 Publications (전체논문수)
+### 4.2 Publications
 
 | Year | Authors | Journal | Title | PMID |
 |------|---------|---------|-------|------|
@@ -186,7 +186,7 @@ title: SCN2A Variant Analysis
 - **Institution:** Epilepsy Research Institute, Severance Children's Hospital, Yonsei University
 - **Study Type:** Large-scale genetic epidemiology (957 Asian patients, 99% Korean)
 
-### 4.3 Reported Patients (전체보고 환자수)
+### 4.3 Reported Patients
 
 | Study | Institution | Patients | Source Cohort | Key Findings |
 |-------|-------------|----------|---------------|--------------|
@@ -226,7 +226,7 @@ This confirms the genotype-phenotype-treatment correlation:
 - **Missense (GOF)** → Early onset → Sodium channel blockers effective
 - **Truncation (LOF)** → Later onset → Sodium channel blockers contraindicated
 
-### 4.5 Variant-to-Patient Frequency (variant별 환자수 빈도)
+### 4.5 Variant-to-Patient Frequency
 - 25 patients with SCN2A mutations in Korean literature
 - Predominantly de novo variants (1:1)
 - Frequency in Korean DEE cohort: 1.5% (11/730) - similar to international data (1.2%)
@@ -328,22 +328,22 @@ This confirms the genotype-phenotype-treatment correlation:
 13. [Functional analysis of novel de novo SCN2A variant p.K156N (2023)](https://www.frontiersin.org/articles/10.3389/fnmol.2023.1159649/full)
 14. [Novel SCN2A-M1879T variant in infantile epilepsy - GOF (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7480906/)
 15. [Human Cortical Organoids with Novel SCN2A Variant p.E512K (2025)](https://pubmed.ncbi.nlm.nih.gov/40540154/)
-16. [Gain-of-function SCN2A mutations in patients with epilepsy (2014)](https://pubmed.ncbi.nlm.nih.gov/24668220/)
-17. [Loss-of-function SCN2A mutations associated with autism (2012)](https://pubmed.ncbi.nlm.nih.gov/22495309/)
+16. [Opposing effects on NaV1.2 function - GoF vs LoF SCN2A variants (2017)](https://pubmed.ncbi.nlm.nih.gov/28256214/)
+17. [De novo SCN2A mutations in autism - whole exome sequencing (2012)](https://pubmed.ncbi.nlm.nih.gov/22495306/)
 
 ### Korean Population Data
 18. [The phenotype and treatment of SCN2A-related DEE - Korean Study (2020)](https://pubmed.ncbi.nlm.nih.gov/33000761/) - 11 Korean patients from Severance & Gachon
 19. [Common genes and recurrent causative variants in 957 Asian patients (2024)](https://pubmed.ncbi.nlm.nih.gov/38073125/) - 14 SCN2A patients, 99% Korean, 3rd most common gene
 
 ### Genotype-Phenotype Correlation
-19. [SCN2A mutation spectrum in epileptic encephalopathies (2016)](https://pubmed.ncbi.nlm.nih.gov/26833129/)
-20. [Age of seizure onset correlates with functional effect (2019)](https://pubmed.ncbi.nlm.nih.gov/31325380/)
-21. [SCN2A variants: gain vs loss of function determines phenotype (2018)](https://pubmed.ncbi.nlm.nih.gov/29273805/)
+20. [Genetic and phenotypic heterogeneity suggest therapeutic implications - Wolff et al. (2017)](https://pubmed.ncbi.nlm.nih.gov/28379373/)
+21. [Functional correlates of clinical phenotype and severity in recurrent SCN2A variants (2022)](https://pubmed.ncbi.nlm.nih.gov/35637276/)
+22. [Phenotypic spectrum and genetics of SCN2A-related disorders (2019)](https://pubmed.ncbi.nlm.nih.gov/31904126/)
 
 ### Database Resources
-22. [SFARI Gene Database - SCN2A](https://gene.sfari.org/database/human-gene/SCN2A)
-23. [OMIM #182390 - SCN2A](https://www.omim.org/entry/182390)
-24. [gnomAD - SCN2A variants](https://gnomad.broadinstitute.org/gene/ENSG00000136531)
+23. [SFARI Gene Database - SCN2A](https://gene.sfari.org/database/human-gene/SCN2A)
+24. [OMIM #182390 - SCN2A](https://www.omim.org/entry/182390)
+25. [gnomAD - SCN2A variants](https://gnomad.broadinstitute.org/gene/ENSG00000136531)
 
 ---
 

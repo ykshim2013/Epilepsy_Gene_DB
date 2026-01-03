@@ -14,9 +14,9 @@ title: SYNGAP1 Variant Analysis
 
 ---
 
-## 1. Overall Variant Summary (전체)
+## 1. Overall Variant Summary
 
-### 1.1 Total Variant Count (variant수)
+### 1.1 Total Variant Count
 
 | Category | Count |
 |----------|-------|
@@ -27,7 +27,7 @@ title: SYNGAP1 Variant Analysis
 | Insertions | 102 |
 | Indels | 15 |
 
-### 1.2 Total Publications (전체논문수)
+### 1.2 Total Publications
 - **>100 publications** since first description (2009)
 - SYNGAP1 encephalopathy comprises approximately **0.7-2% of all intellectual disability cases**
 - Estimated incidence: **1-4 per 10,000 individuals** (one of the most common causes of ID with epilepsy)
@@ -35,13 +35,13 @@ title: SYNGAP1 Variant Analysis
   - [Clinical Genetics (2024)](https://pubmed.ncbi.nlm.nih.gov/39647930/) - 246 patients systematic review
   - [Registry study (2024)](https://pubmed.ncbi.nlm.nih.gov/38470175/) - 147 patients
 
-### 1.3 Total Reported Patients (전체보고 환자수)
+### 1.3 Total Reported Patients
 - **~246 patients** documented in comprehensive systematic review (Clinical Genetics 2024)
 - Registry-based study: 147 patients with P/LP SYNGAP1 variants
 - ~200 known patients globally (SYNGAP1 Foundation)
 - Large international registries and patient communities exist
 
-### 1.4 Variant-to-Patient Frequency Distribution (variant별 환자수 빈도)
+### 1.4 Variant-to-Patient Frequency Distribution
 
 | Ratio (Variant:Patients) | Description |
 |--------------------------|-------------|
@@ -53,7 +53,7 @@ title: SYNGAP1 Variant Analysis
 
 ## 2. ClinVar Pathogenic/Likely Pathogenic (ClinVar P/LP)
 
-### 2.1 P/LP Variant Count (variant수)
+### 2.1 P/LP Variant Count
 
 | Classification | Count |
 |----------------|-------|
@@ -64,20 +64,20 @@ title: SYNGAP1 Variant Analysis
 
 *Note: Variants classified as "Pathogenic/Likely pathogenic" have submissions with both P and LP classifications. Total = P + LP - P/LP (323 + 129 - 20 = 432) to avoid double-counting.
 
-### 2.2 Publications for P/LP Variants (전체논문수)
+### 2.2 Publications for P/LP Variants
 - Primary literature sources:
   - [SYNGAP1-Related Intellectual Disability - GeneReviews (2024)](https://www.ncbi.nlm.nih.gov/books/NBK537721/)
   - [Genetic and neurodevelopmental spectrum of SYNGAP1-associated ID and epilepsy (2016)](https://pubmed.ncbi.nlm.nih.gov/26989088/)
   - [SYNGAP1 encephalopathy: A distinctive generalized DEE (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6340340/)
   - [Phenotypes in Children with SYNGAP1 Encephalopathy in China (2021)](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.761473/full)
 
-### 2.3 Reported Patients with P/LP Variants (전체보고 환자수)
+### 2.3 Reported Patients with P/LP Variants
 - Estimated **~246 patients** with confirmed P/LP variants in published literature
 - Systematic review (2024): 246 patients with genotype-phenotype correlation
 - Registry-based study: 147 patients with detailed phenotype data
 - Additional patients in clinical databases and registries
 
-### 2.4 Variant-to-Patient Frequency for P/LP (variant별 환자수 빈도)
+### 2.4 Variant-to-Patient Frequency for P/LP
 
 | Frequency Pattern | Examples |
 |-------------------|----------|
@@ -91,11 +91,11 @@ title: SYNGAP1 Variant Analysis
 
 ---
 
-## 3. Non-ClinVar P/LP Variants (전체에서 ClinVar P/LP를 제외한)
+## 3. Non-ClinVar P/LP Variants
 
 *This section includes: (A) ClinVar variants classified as VUS/Benign/Likely Benign, AND (B) Literature-reported variants not yet in ClinVar*
 
-### 3.1 Variant Count (variant수)
+### 3.1 Variant Count
 
 #### A. ClinVar Non-P/LP Variants
 
@@ -124,7 +124,7 @@ title: SYNGAP1 Variant Analysis
 |----------|-------|
 | **Total Non-P/LP (ClinVar + Literature)** | **>1,381 + novel** |
 
-### 3.2 Publications (전체논문수)
+### 3.2 Publications
 - VUS often identified through clinical exome/genome sequencing
 - Benign variants from population databases
 - Key publications with novel non-ClinVar variants:
@@ -134,13 +134,13 @@ title: SYNGAP1 Variant Analysis
   - [Familial SYNGAP1 variants - 3% inherited cases (2025)](https://pubmed.ncbi.nlm.nih.gov/40407699/)
   - [Novel SYNGAP1 variant in adult (2023)](https://karger.com/msy/article/14/5/433/842123/)
 
-### 3.3 Reported Patients (전체보고 환자수)
+### 3.3 Reported Patients
 - ClinVar VUS: Individual case findings requiring further classification
 - ClinVar Benign/Likely Benign: Population frequency data
 - Novel literature variants: ~10-15 patients with novel variants published 2022-2025
 - Familial cases: 8 individuals in 3 families with inherited variants (2025 study)
 
-### 3.4 Variant-to-Patient Frequency (variant별 환자수 빈도)
+### 3.4 Variant-to-Patient Frequency
 - ClinVar VUS: Predominantly 1:1
 - ClinVar Benign: Higher population frequency
 - Novel literature variants: 1:1-2 per publication (case reports)
@@ -167,12 +167,12 @@ title: SYNGAP1 Variant Analysis
 
 ## 4. Korean Patient Data (Korean patient)
 
-### 4.1 Variant Count (variant수)
+### 4.1 Variant Count
 - **13 Korean patients** with SYNGAP1 mutations documented
 - Variants identified through gene panels and whole-exome sequencing
 - Specific variant nomenclature not published in abstract (requires full-text access)
 
-### 4.2 Publications (전체논문수)
+### 4.2 Publications
 
 | Year | Authors | Journal | Title | PMID |
 |------|---------|---------|-------|------|
@@ -187,7 +187,7 @@ title: SYNGAP1 Variant Analysis
 - **Study Type:** Retrospective longitudinal analysis
 - **DOI:** 10.1002/ajmg.a.63606
 
-### 4.3 Reported Patients (전체보고 환자수)
+### 4.3 Reported Patients
 
 | Study | Institution | Patients | Age Range | Key Findings |
 |-------|-------------|----------|-----------|--------------|
@@ -211,7 +211,7 @@ title: SYNGAP1 Variant Analysis
 - Epilepsy onset followed developmental delays (not concurrent)
 - Critical developmental window: ages 2-5 years
 
-### 4.4 Variant-to-Patient Frequency (variant별 환자수 빈도)
+### 4.4 Variant-to-Patient Frequency
 - 13 patients with SYNGAP1 mutations (specific variants require full-text access)
 - De novo mutations expected based on international data (~89%)
 
@@ -335,20 +335,20 @@ This finding suggests:
 
 ### Clinical Phenotype Studies
 4. [Genetic and neurodevelopmental spectrum of SYNGAP1 (2016)](https://pubmed.ncbi.nlm.nih.gov/26989088/)
-5. [Adult Phenotype of SYNGAP1-DEE (2023)](https://www.neurology.org/doi/10.1212/NXG.0000000000200105)
+5. [Adult Phenotype of SYNGAP1-DEE (2023)](https://pubmed.ncbi.nlm.nih.gov/38045990/)
 6. [Phenotypes in Children with SYNGAP1 in China (2021)](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.761473/full)
-7. [SYNGAP1 mutations cause intellectual disability, autism, and epilepsy (2009)](https://pubmed.ncbi.nlm.nih.gov/19196676/)
-8. [SYNGAP1 haploinsufficiency - first description (2009)](https://pubmed.ncbi.nlm.nih.gov/19913492/)
-9. [Eyelid myoclonia as hallmark seizure type in SYNGAP1 (2019)](https://www.neurology.org/doi/10.1212/WNL.0000000000006729)
-10. [Eating-triggered seizures - unique SYNGAP1 feature (2019)](https://pubmed.ncbi.nlm.nih.gov/30531795/)
+7. [SYNGAP1 mutations cause intellectual disability - first report (2009)](https://pubmed.ncbi.nlm.nih.gov/19196676/)
+8. [SYNGAP1 haploinsufficiency mechanism (2012)](https://pubmed.ncbi.nlm.nih.gov/23161826/)
+9. [SYNGAP1 encephalopathy: A distinctive generalized DEE (2018)](https://pubmed.ncbi.nlm.nih.gov/30541864/)
+10. [Eating-triggered seizures in SYNGAP1 (2019)](https://pubmed.ncbi.nlm.nih.gov/30685520/)
 11. [Developmental trajectory in SYNGAP1 disorders (2024)](https://pubmed.ncbi.nlm.nih.gov/38563110/)
 
 ### Treatment and ASM Response
 12. [SYNGAP1 Treatment Response to Cannabidiol (2023)](https://www.elsevier.es/en-revista-neurologia-english-edition--495-articulo-epileptic-neurodevelopmental-encephalopathy-associated-syngap1-S2173580823000640)
 13. [Valproate and lamotrigine efficacy in SYNGAP1 epilepsy (2021)](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.761473/full)
-14. [Drug-resistant epilepsy in SYNGAP1 - 63% refractory (2019)](https://pubmed.ncbi.nlm.nih.gov/30531795/)
-15. [Ketogenic diet for SYNGAP1-related epilepsy (2020)](https://pubmed.ncbi.nlm.nih.gov/32446353/)
-16. [Topiramate response in SYNGAP1 DEE (2018)](https://pubmed.ncbi.nlm.nih.gov/30068413/)
+14. [Drug-resistant epilepsy in SYNGAP1 - 63% refractory (2018)](https://pubmed.ncbi.nlm.nih.gov/30541864/)
+15. [CBD add-on significantly decreases seizures (2020)](https://pubmed.ncbi.nlm.nih.gov/32913957/)
+16. [Pharmacological rescue of synaptic deficits in Syngap1 mice (2021)](https://pubmed.ncbi.nlm.nih.gov/34739555/)
 
 ### Novel Variants and Case Reports
 17. [Novel variants of SYNGAP1 - Two case reports (2022)](https://aepi.biomedcentral.com/articles/10.1186/s42494-022-00114-z)
@@ -359,9 +359,9 @@ This finding suggests:
 22. [SYNGAP1 microdeletions - 11% of cases (2016)](https://pubmed.ncbi.nlm.nih.gov/26989088/)
 
 ### Functional Studies
-23. [SYNGAP1 regulates synaptic plasticity and cognition (2012)](https://pubmed.ncbi.nlm.nih.gov/23201973/)
-24. [Haploinsufficiency mechanism in SYNGAP1 disorders (2018)](https://pubmed.ncbi.nlm.nih.gov/29563493/)
-25. [SYNGAP1 role in synapse development and function (2020)](https://pubmed.ncbi.nlm.nih.gov/32669271/)
+23. [SYNGAP1 links synapse maturation to critical-period plasticity (2013)](https://pubmed.ncbi.nlm.nih.gov/23785156/)
+24. [Haploinsufficiency damages postnatal critical period (2015)](https://pubmed.ncbi.nlm.nih.gov/25444158/)
+25. [Twenty Years of SynGAP Research: Synapses to Cognition (2020)](https://pubmed.ncbi.nlm.nih.gov/32075947/)
 26. [Critical developmental window ages 2-5 years (2024)](https://pubmed.ncbi.nlm.nih.gov/38563110/)
 
 ### Genotype-Phenotype Correlation
